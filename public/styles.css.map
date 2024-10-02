@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/nakki/Documents/Code/nakkii.github.io/web-nakkii",
+	"sourceRoot": "C:/Users/nakki/Documents/Code/nakkii.github.io",
 	"sources": [
 		"css/base.scss",
 		"themes/re-terminal/assets/css/variables.scss",
