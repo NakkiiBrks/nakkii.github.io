@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bot on Nakkii&#39;s Webpage</title>
-    <link>//localhost:1313/tags/bot/</link>
+    <link>/tags/bot/</link>
     <description>Recent content in Bot on Nakkii&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Oct 2024 02:16:35 -0300</lastBuildDate><atom:link href="//localhost:1313/tags/bot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Oct 2024 02:16:35 -0300</lastBuildDate><atom:link href="/tags/bot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lain Ds</title>
-      <link>//localhost:1313/posts/lain-ds/</link>
+      <link>/posts/lain-ds/</link>
       <pubDate>Wed, 02 Oct 2024 02:16:35 -0300</pubDate>
       
-      <guid>//localhost:1313/posts/lain-ds/</guid>
-      <description></description>
-      <content></content>
+      <guid>/posts/lain-ds/</guid>
+      <description>&lt;p&gt;Soon&lt;/p&gt;</description>
+      <content>&lt;p&gt;Soon&lt;/p&gt;
+</content>
     </item>
     
   </channel>
